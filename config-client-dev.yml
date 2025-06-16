@@ -1,3 +1,3 @@
 client:
-  name: config-client
+  name: application-client
   timeout: 1
