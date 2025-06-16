@@ -1,0 +1,3 @@
+client:
+  name: config-client
+  timeout: 1
